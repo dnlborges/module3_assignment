@@ -1,5 +1,11 @@
 section {
-    color: grey;
-    text-align: justify;
-    background-color: #f0f4f3;
+	color: grey;
+	text-align: justify;
+	background-color: #f0f4f3;
+}
+
+.container_section 
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
